@@ -5,7 +5,8 @@
 - 1 small onion
 - 2 garlic toes
 - 1 tomato
-- 1 lime
+- 1 lemon
 - salt and pepper to taste
-- cumin
+- cumin to taste
+- coriander
 
