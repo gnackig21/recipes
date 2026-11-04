@@ -11,6 +11,6 @@
 - coriander
 
 ## Instructions
--cut the tomato into small pieces
--put out the avocado and smash it
--mix it with the help of the lemon and 
+- cut the tomato into small pieces
+- put out the avocado and smash it
+- mix it with the help of the lemon and 
