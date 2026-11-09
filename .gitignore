@@ -1,2 +1,7 @@
 *.png
 pictures/
+
+pictures/cake/
+!pictures/pie/ #ignore außer mit rufzeichen
+
+.DS_Store
